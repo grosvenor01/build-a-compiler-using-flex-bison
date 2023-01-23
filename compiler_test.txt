@@ -1,0 +1,25 @@
+import "Hhh.Hhh"
+A=6
+int B,Z
+%%
+if(A==P): 
+    A=8
+    for I in range(1,2):
+        Z=5
+    A=4 
+if(A==2):
+    A=5.2+Z
+else:
+    B=3
+for I in range(1,2):
+    A=8
+    while(A==5):
+        E=6
+        Z=4
+
+
+
+
+
+
+
